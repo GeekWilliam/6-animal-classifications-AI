@@ -14,5 +14,8 @@ session.download_data(bucket_path="",path="")
 另外本项目代码一部分来自
 原文链接：https://blog.csdn.net/SugerOO/article/details/100031142
 数据集来自kaggle：https://www.kaggle.com/alessiocorrado99/animals10
+模型文件下载地址：
+链接：https://pan.baidu.com/s/1bR4J12PeFA6jxzrpPmE2bw 
+提取码：dux8
 如果您觉得我们的项目对您的学习又帮助请附上我们的Github链接！  
 Thank you！
