@@ -3,11 +3,11 @@ Identify 6 animals：Dog, horse, elephant, butterfly, chicken and cat
 #本文件为自述文件  
 请使用TensorFlow-1.13.1运行项目或兼容版本  
 Resnet50.ipynb是训练代码  
-Untitled.ipynb是测试代码
-模型准率为：0.81534773  
+Untitled.ipynb是测试代码  
+模型识别率为：0.81534773  
 损失函数为：1.1612990897360205  
-请确保你的电脑已经安装我们项目所需要的第三方库
-若您在HUAWEI Cloud上运行此程序需要输入以下代码
+请确保你的电脑已经安装我们项目所需要的第三方库  
+若您在HUAWEI Cloud上运行此程序需要输入以下代码  
 ```
 from modelarts.session import Session
 session = Session()
